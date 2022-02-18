@@ -1,0 +1,4 @@
+[submodule "apps/bluemonkey-api"]
+	url = https://github.com/gabrielIV/bluemonkey-api.git
+[submodule "apps/bluemonkey-dashboard"]
+	url = https://github.com/gabrielIV/bluemonkey-dashboard.git
